@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, im Samisalami 👋
 
 ```c
 typedef struct Person {
@@ -64,4 +64,3 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samisalami05&theme=one_dark_pro&hide_border=true" alt="Samisalami05" /></p>
 
 ![snake gif](https://github.com/Samisalami05/Samisalami05/blob/output/github-snake-dark.svg)
-
