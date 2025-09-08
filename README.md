@@ -10,7 +10,7 @@ typedef struct Person {
 
 Person samisalami = {
   "Samisalami05",
-  {"csharp", "c", "java"},
+  {"javascript", "typescript", "html", "css", "svelte", "python", "csharp", "c", "java"},
   "windows",
   {"software development", "game development", "problem solving"},
 };
