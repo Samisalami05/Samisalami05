@@ -5,7 +5,6 @@ typedef struct Person {
   char* name;
   char* languages[];
   char* game_engines[];
-  char* operating_system;
   char* interests[];
 } Person;
 
@@ -13,7 +12,6 @@ Person samisalami = {
   "Samisalami05",
   {"javascript", "typescript", "html", "css", "python", "csharp", "c", "java"},
   {"unity", "godot"},
-  "windows",
   {"software development", "game development", "problem solving"},
 };
 ```
